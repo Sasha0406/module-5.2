@@ -96,11 +96,11 @@ li {
 }
 .button-left button {
   float: left;
-  background-image: url('/icon/slider1.png');
+  background-image: url('icon/slider1.png');
 }
 .button-right button {
   float: right;
-  background-image: url('/icon/slider2.png');
+  background-image: url('icon/slider2.png');
 }
 .affordable-paris-tours,
 .buttons {
@@ -199,17 +199,17 @@ li {
   background-repeat: no-repeat;
 }
 .overlay .like {
-  background-image: url('/icon/button1.png');
+  background-image: url('icon/button1.png');
 }
 .overlay .mix {
-  background-image: url('/icon/button2.png');
+  background-image: url('icon/button2.png');
 }
 .overlay .time {
-  background-image: url('/icon/button3.png');
+  background-image: url('icon/button3.png');
 }
 .overlay .cart {
   background-color: #323232;
-  background-image: url('/icon/button4.png');
+  background-image: url('icon/button4.png');
 }
 .like:hover,
 .mix:hover,
